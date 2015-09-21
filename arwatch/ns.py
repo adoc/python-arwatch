@@ -164,10 +164,6 @@ class Resolver:
         return dict(dict_namelist_ips())
 
 
-
-
-
-
 if __name__ == "__main__":
     # API Example.
     print(parse("privateinternetaccess.com",
